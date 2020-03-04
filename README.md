@@ -28,6 +28,8 @@
 - 사용기술 : Objective-C, Swift, SnapKit, Alamofire, Coredata, Firebase
 - 앱스토어 : https://apps.apple.com/kr/app/shp/id1073101936
 
+<img src="images/shp_1.png" width="200"/> <img src="images/shp_2.png" width="200"/>
+
 ### 마셔바
 - 소개 : 물 마시기 습관, 광고형 리워드 앱
 - 소속 : 이스트블루
@@ -35,6 +37,8 @@
 - 역할 : iOS 개발 및 서비스
 - 사용기술 : Swift, Alamofire, Realm, SnapKit, Firebase
 - 앱스토어 : https://apps.apple.com/kr/app/id1441977200
+
+<img src="images/mashioba_1.png" width="200"/> <img src="images/mashioba_2.png" width="200"/> <img src="images/mashioba_3.png" width="200"/> <img src="images/mashioba_4.png" width="200"/>
 
 ### 씨서바
 - 소개 : 위치기반 찜질방 검색 및 할인 앱
@@ -44,6 +48,8 @@
 - 사용기술 : Swift, Java, Alamofire, Hero, Daum maps, Crashlytics
 - 앱스토어 : https://apps.apple.com/kr/app/id1242743211
 
+<img src="images/cisuba_1.jpg" width="200"/> <img src="images/cisuba_2.jpg" width="200"/> <img src="images/cisuba_3.jpg" width="200"/> <img src="images/cisuba_4.jpg" width="200"/>
+
 ### 서피비치
 - 소개 : 서핑장 서피비치 소개, 예약 웹앱
 - 소속 : 이스트블루
@@ -51,3 +57,5 @@
 - 역할 : iOS 개발 및 서비스
 - 사용기술 : Swift, SnapKit
 - 앱스토어 : https://apps.apple.com/kr/app/id1238635375
+
+<img src="images/surfyy_1.jpg" width="200"/> <img src="images/surfyy_2.jpg" width="200"/> <img src="images/surfyy_3.jpg" width="200"/> <img src="images/surfyy_4.jpg" width="200"/>
