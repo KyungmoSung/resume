@@ -33,3 +33,10 @@
 - 기간 : 2017.04 ~ 2018.02
 - 역할 : iOS, Android 개발 및 서비스
 - 사용기술 : Swift, Java, Alamofire, Hero, Daum maps, Crashlytics
+
+### 서피비치
+- 소개 : 서핑장 서피비치 웹앱
+- 소속 : 이스트블루
+- 기간 : 2017.06 ~ 2017.09
+- 역할 : iOS 개발 및 서비스
+- 사용기술 : Swift, SnapKit
