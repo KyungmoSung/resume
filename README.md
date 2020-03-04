@@ -25,6 +25,7 @@
 - 소속 : 오픈잇
 - 기간 : 2018.03 ~ 현재
 - 역할 : iOS 개발 및 서비스
+- 담당업무 : 유지보수 및 고도화, 디자인 개편, 쇼핑몰 신규개발, 다국어 지원, Objective-C에서 Swift로 마이그레이션
 - 사용기술 : Objective-C, Swift, SnapKit, Alamofire, Coredata, Firebase
 - 앱스토어 : https://apps.apple.com/kr/app/shp/id1073101936
 
